@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T17:48:34.190Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="yyA0BR81UAY2yyN9YZfX" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T17:50:22.784Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="U_4zLJ37rsvOlHtjAAzf" version="13.7.9" type="github">
   <diagram id="YE69xBtVCRSE5VGeOWay" name="Page-1">
     <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -380,50 +380,50 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1320" width="100" height="40" as="geometry" />
+          <mxGeometry x="-50" y="1320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-25" value="Поле оплаты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1330" width="40" height="20" as="geometry" />
+          <mxGeometry x="-20" y="1330" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-26" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="VN3i59JF1z_-Vm6CVips-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="1600" as="sourcePoint" />
+            <mxPoint y="1600" as="sourcePoint" />
             <mxPoint x="-10" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1320" width="100" height="40" as="geometry" />
+          <mxGeometry x="110" y="1320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-28" value="Пользователь" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1330" width="40" height="20" as="geometry" />
+          <mxGeometry x="140" y="1330" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-29" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="VN3i59JF1z_-Vm6CVips-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="1600" as="sourcePoint" />
+            <mxPoint x="160" y="1600" as="sourcePoint" />
             <mxPoint x="140" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="233.25" y="1320" width="100" height="40" as="geometry" />
+          <mxGeometry x="270" y="1320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-31" value="Пользователь" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="263.25" y="1330" width="40" height="20" as="geometry" />
+          <mxGeometry x="300" y="1330" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-32" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="VN3i59JF1z_-Vm6CVips-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="283.25" y="1600" as="sourcePoint" />
+            <mxPoint x="320" y="1600" as="sourcePoint" />
             <mxPoint x="283.25" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="1320" width="100" height="40" as="geometry" />
+          <mxGeometry x="430" y="1320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-34" value="Пользователь" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="409" y="1330" width="40" height="20" as="geometry" />
+          <mxGeometry x="460" y="1330" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-35" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="VN3i59JF1z_-Vm6CVips-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="429" y="1600" as="sourcePoint" />
+            <mxPoint x="480" y="1600" as="sourcePoint" />
             <mxPoint x="429" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
