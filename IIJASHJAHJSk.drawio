@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T17:46:16.083Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="d5cV7VnN1SMXQZfT4sVA" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T17:48:18.354Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="rPLhWDQSW4Ojs3hfF6tM" version="13.7.9" type="github">
   <diagram id="YE69xBtVCRSE5VGeOWay" name="Page-1">
     <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -344,27 +344,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="113" y="1000" width="100" height="40" as="geometry" />
+          <mxGeometry x="270" y="1000" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-13" value="БД" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="143" y="1010" width="40" height="20" as="geometry" />
+          <mxGeometry x="300" y="1010" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-14" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="VN3i59JF1z_-Vm6CVips-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="163" y="1280" as="sourcePoint" />
-            <mxPoint x="140" y="1120" as="targetPoint" />
+            <mxPoint x="320" y="1280" as="sourcePoint" />
+            <mxPoint x="297" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1000" width="100" height="40" as="geometry" />
+          <mxGeometry x="427" y="1000" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-16" value="Фотографии" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1010" width="40" height="20" as="geometry" />
+          <mxGeometry x="457" y="1010" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-17" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="VN3i59JF1z_-Vm6CVips-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="1270" as="sourcePoint" />
-            <mxPoint x="383.25" y="1120" as="targetPoint" />
+            <mxPoint x="477" y="1270" as="sourcePoint" />
+            <mxPoint x="540.25" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -512,28 +512,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-57" value="Запрос на проверку&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="1085" width="170" height="40" as="geometry" />
+          <mxGeometry x="164.25" y="1120" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-58" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="1140" as="sourcePoint" />
-            <mxPoint x="160" y="1180" as="targetPoint" />
+            <mxPoint x="317" y="1150" as="sourcePoint" />
+            <mxPoint x="317" y="1190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="1160" />
+              <mxPoint x="330" y="1170" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-59" value="Проверка&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="185" y="1140" width="40" height="20" as="geometry" />
+          <mxGeometry x="342" y="1140" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-60" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="163.00000000000023" y="1190" as="sourcePoint" />
-            <mxPoint x="323" y="1190" as="targetPoint" />
+            <mxPoint x="320.0000000000002" y="1190" as="sourcePoint" />
+            <mxPoint x="480" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-61" value="Переход" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="229.25" y="1169" width="40" height="20" as="geometry" />
+          <mxGeometry x="386.25" y="1169" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-63" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -582,6 +582,27 @@
         </mxCell>
         <mxCell id="VN3i59JF1z_-Vm6CVips-73" value="Сообщение" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="900" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VN3i59JF1z_-Vm6CVips-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="1000" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VN3i59JF1z_-Vm6CVips-75" value="Кнопка ОК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="133" y="1010" width="61" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VN3i59JF1z_-Vm6CVips-76" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1280" as="sourcePoint" />
+            <mxPoint x="160" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VN3i59JF1z_-Vm6CVips-77" value="Нажатие&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VN3i59JF1z_-Vm6CVips-78" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160.00000000000023" y="1149.5" as="sourcePoint" />
+            <mxPoint x="320" y="1149.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
