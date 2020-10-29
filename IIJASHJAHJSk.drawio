@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T20:09:43.995Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Y8C-17Dy56XjEF8qxwbN" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T20:11:22.795Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="hfzhFhoaNwMtFzjBt0p8" version="13.8.5" type="github">
   <diagram id="YE69xBtVCRSE5VGeOWay" name="Page-1">
-    <mxGraphModel dx="1550" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1933,8 +1933,8 @@
             <mxPoint x="360.58" y="2240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U0Kef4KMsKeUTWoC3AEa-92" value="Отправка фотографии" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260.58" y="2210" width="40" height="20" as="geometry" />
+        <mxCell id="U0Kef4KMsKeUTWoC3AEa-92" value="Отправка фотографии и данных" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220.57999999999998" y="2200" width="129.42" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U0Kef4KMsKeUTWoC3AEa-93" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
